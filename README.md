@@ -2,13 +2,13 @@
 
 ## Introduction
 
-A starting point for Neovim that is:
-
-* Small
-* Single-file
-* Completely Documented
-
 **NOT** a Neovim distribution, but instead a starting point for your configuration.
+
+Small, completely documented and single-file configuration for Neovim. Excelent environment to start customizing and learn along the way.
+
+> [!NOTE]
+> To keep it clean, don't forget to switch branch before commiting any changes.
+> `git branch switch <branch_name>`
 
 ## Installation
 
