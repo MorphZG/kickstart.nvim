@@ -2,4 +2,9 @@
 --  I promise not to create any merge conflicts in this directory :)
 --
 -- See the kickstart.nvim README for more information
-return {}
+--
+-- modular approach: using `require 'path.name'` will
+-- include a plugin definition from file lua/path/name.lua
+
+require 'obsidian'
+require 'render-markdown'
