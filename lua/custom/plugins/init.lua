@@ -6,5 +6,4 @@
 -- modular approach: using `require 'path.name'` will
 -- include a plugin definition from file lua/path/name.lua
 
-require 'obsidian'
-require 'render-markdown'
+require 'custom.plugins.render-markdown'
