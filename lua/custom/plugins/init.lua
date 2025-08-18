@@ -7,3 +7,4 @@
 -- include a plugin definition from file lua/path/name.lua
 
 require 'custom.plugins.render-markdown'
+--require('lazy').setup(require 'custom.plugins.render-markdown')
